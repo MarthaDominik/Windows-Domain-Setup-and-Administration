@@ -132,7 +132,7 @@ In this step, I used the **Delegation of Control Wizard** to assign Phillip the 
 
 • Once Sophie entered the new password, the second screenshot shows confirmation that her password had been successfully changed, allowing her access to the system.
 
-<img width="451" alt="Logging in as Sophie and Changing the Password" src="https://github.com/user-attachments/assets/33f04f0a-40d3-4aea-8836-56a2997f1c56">
+<img width="401" alt="Logging in as Sophie and Changing the Password" src="https://github.com/user-attachments/assets/33f04f0a-40d3-4aea-8836-56a2997f1c56">
 
 <img width="401" alt="Logging in as Sophie and Changing the Password" src="https://github.com/user-attachments/assets/001a7fba-97d8-42b9-af94-1d99e5eae564">
 
